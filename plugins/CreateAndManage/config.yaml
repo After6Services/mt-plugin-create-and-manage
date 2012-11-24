@@ -1,0 +1,16 @@
+name: Create and Manage 
+id: CreateAndManage
+author_link: http://www.after6services.com/plugins/
+author_name: After6 Services LLC
+description: This plugin adds a 'Create' and 'Manage' menu to Movable Type 5, so plugins written for Movable Type 4 that add submenu-items there will work again.  Note that the menus will only appear if there are plugins installed that actually add submenus to them.
+version: 1.0
+applications:
+    cms:
+        menus:
+            create:
+                label: 'Create'
+                order: 5
+            manage:
+                label: 'Manage'
+                order: 6
+
