@@ -24,6 +24,14 @@ No configuration is required.
 
 Note that the "Create" and "Manage" menus will only appear if other plugins are installed that actually add submenus to them.
 
+# Discussion
+
+After6 Services has found this plugin useful, but it is not published on Github which is the most common method of publishing and discovering free plugins for Movable Type.
+
+We were frustrated by not being able to find it when we need to install it.  So, we published it with full documentation and applied a non-copyleft open source license to it.
+
+Full credit for this idea and its initial implementation goes to Maarten Schenk of YesItCanBe.
+
 # Support
 
 This plugin has not been tested with any version of Movable Type prior to Movable Type 5.14.  It is intended for use with any version of Movable Type 5.
@@ -36,7 +44,7 @@ This plugin is licensed under The MIT License, http://www.opensource.org/license
 
 # Authorship
 
-Create and Manage was originally written by Maarten Schenk from YesItCan.Be BVBA.  Documentation created by After6 Services LLC.  Plugin published by After6 Services LLC.
+Create and Manage was originally [written by Maarten Schenk](http://www.movabletips.com/2010/02/making-some-movable-type-4-plugins-work-on-movable-type-5.html) from [YesItCan.Be BVBA](http://yesitcan.be).  Documentation created by After6 Services LLC.  Plugin published by After6 Services LLC.
 
 # Copyright
 
